@@ -61,7 +61,7 @@ params:
     immutable: false
   - param: COLORS
     label: Colors
-    type: multiselect
+    type: multiSelect
     options:
       - label: Green
         value: green
